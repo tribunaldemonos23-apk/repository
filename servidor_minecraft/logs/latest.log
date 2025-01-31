@@ -61,3 +61,4 @@
 [31Jan2025 09:20:43.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Danben285 lost connection: Disconnected
 [31Jan2025 09:20:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 left the game
 [31Jan2025 09:33:11.221] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@610c7a88
+[31Jan2025 10:54:33.920] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15720, l='ServerLevel[world]', x=-245.50, y=72.32, z=309.41]
