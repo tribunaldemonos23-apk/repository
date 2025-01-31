@@ -636,3 +636,10 @@
 [31Jan2025 09:03:28.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Danben285[/100.105.159.68:6310] logged in with entity id 2338 at (-273.16448100541504, 68.0, 305.30000001192093)
 [31Jan2025 09:03:28.467] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@6021234b into net.minecraft.network.NetworkManager@6d0a7cd7
 [31Jan2025 09:03:28.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 joined the game
+[31Jan2025 09:08:11.635] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 09:08:11.640] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 09:12:16.698] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/339, l='ServerLevel[world]', x=-241.30, y=71.00, z=300.98] died, message: 'Nitwit was slain by fueunrandom'
+[31Jan2025 09:13:11.650] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 09:13:11.653] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 09:15:45.773] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fueunrandom lost connection: Disconnected
+[31Jan2025 09:15:45.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom left the game
