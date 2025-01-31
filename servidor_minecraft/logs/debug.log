@@ -643,3 +643,9 @@
 [31Jan2025 09:13:11.653] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [31Jan2025 09:15:45.773] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: fueunrandom lost connection: Disconnected
 [31Jan2025 09:15:45.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom left the game
+[31Jan2025 09:18:11.975] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 09:18:11.978] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 09:20:43.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Danben285 lost connection: Disconnected
+[31Jan2025 09:20:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 left the game
+[31Jan2025 09:23:12.125] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 09:23:12.129] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
