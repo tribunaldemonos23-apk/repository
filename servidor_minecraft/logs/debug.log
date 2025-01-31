@@ -689,3 +689,9 @@
 [31Jan2025 10:54:33.920] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15720, l='ServerLevel[world]', x=-245.50, y=72.32, z=309.41]
 [31Jan2025 10:58:11.337] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [31Jan2025 10:58:11.340] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 10:58:40.921] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _MATUUU_ lost connection: Disconnected
+[31Jan2025 10:58:40.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _MATUUU_ left the game
+[31Jan2025 11:03:11.368] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 11:03:11.372] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Jan2025 11:08:11.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Jan2025 11:08:11.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
