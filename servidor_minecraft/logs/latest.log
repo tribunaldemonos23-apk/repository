@@ -60,3 +60,4 @@
 [31Jan2025 09:15:45.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom left the game
 [31Jan2025 09:20:43.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Danben285 lost connection: Disconnected
 [31Jan2025 09:20:43.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 left the game
+[31Jan2025 09:33:11.221] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@610c7a88
