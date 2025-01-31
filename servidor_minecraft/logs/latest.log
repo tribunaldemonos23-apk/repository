@@ -51,3 +51,7 @@
 [31Jan2025 08:50:46.225] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: fueunrandom[/100.117.135.5:64251] logged in with entity id 246 at (-196.50062348436043, 72.0, 544.3000000119209)
 [31Jan2025 08:50:46.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom joined the game
 [31Jan2025 08:53:13.014] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _MATUUU_ moved too quickly! 2.052169347143149,-0.7953996215565695,9.84598452379339
+[31Jan2025 09:00:43.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: fueunrandom has made the advancement [Monster Hunter]
+[31Jan2025 09:03:28.443] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@730b0a9b
+[31Jan2025 09:03:28.467] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Danben285[/100.105.159.68:6310] logged in with entity id 2338 at (-273.16448100541504, 68.0, 305.30000001192093)
+[31Jan2025 09:03:28.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Danben285 joined the game
