@@ -6315,3 +6315,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 18:54:07.773] [Server thread/DEBUG] [mixin/]: Mixing MixinEntityDensityManager from enhancedcelestials.mixins.json into net.minecraft.world.spawner.WorldEntitySpawner$EntityDensityManager
 [04Feb2025 18:59:08.870] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [04Feb2025 18:59:08.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Feb2025 19:04:07.670] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:04:07.713] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[04Feb2025 19:09:07.659] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[04Feb2025 19:09:07.684] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
