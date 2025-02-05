@@ -101,12 +101,6 @@
     },
     "done": true
   },
-  "ava:recipes/survival/spring": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-02-01 08:40:56 +0000"
@@ -233,6 +227,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-01 08:48:31 +0000"
@@ -248,6 +248,12 @@
   "mca:recipes/misc/rose_gold_ingot": {
     "criteria": {
       "has_item": "2025-02-01 08:40:56 +0000"
+    },
+    "done": true
+  },
+  "mts:rtfm": {
+    "criteria": {
+      "has_manual": "2025-02-05 03:59:52 +0000"
     },
     "done": true
   },
@@ -281,15 +287,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-02-01 08:48:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-02-01 08:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-01 08:48:31 +0000"
     },
     "done": true
   },
@@ -435,15 +441,15 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-02-01 09:01:34 +0000"
-    },
-    "done": true
-  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-02-01 08:40:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-01 09:01:34 +0000"
     },
     "done": true
   },
@@ -453,21 +459,9 @@
     },
     "done": true
   },
-  "ava:recipes/survival/mechanical_components": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 07:06:14 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/survival/ceramic": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
@@ -498,12 +492,6 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/survival/work_hardened_iron": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
@@ -573,6 +561,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2025-02-01 08:40:56 +0000"
@@ -603,6 +597,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-31 07:05:01 +0000"
@@ -624,6 +624,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-31 07:07:15 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -705,15 +711,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-02-01 08:48:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-02-01 08:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-01 08:48:31 +0000"
     },
     "done": true
   },
@@ -762,6 +768,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-31 07:02:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -849,12 +861,6 @@
     },
     "done": true
   },
-  "ava:recipes/survival/fuse": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-31 07:06:14 +0000"
@@ -879,9 +885,9 @@
     },
     "done": true
   },
-  "ava:recipes/decorations/cobweb": {
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
-      "has_string": "2025-02-01 09:11:04 +0000"
+      "has_auto_smelting_upgrade": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -960,6 +966,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-31 07:06:32 +0000"
@@ -975,12 +987,6 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-01-31 07:31:06 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/main/gun_crafting_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
@@ -1048,21 +1054,15 @@
     },
     "done": true
   },
-  "ava:recipes/survival/fibre": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-31 07:31:06 +0000"
     },
     "done": true
   },
-  "plastic_from_ava:recipes/survival/plastic": {
+  "create:root": {
     "criteria": {
-      "has_leather": "2025-02-01 08:40:56 +0000"
+      "0": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -1246,12 +1246,6 @@
     },
     "done": true
   },
-  "ava:recipes/survival/lens": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-01 08:48:31 +0000"
@@ -1348,6 +1342,12 @@
     },
     "done": true
   },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-02-01 08:40:56 +0000"
@@ -1402,9 +1402,9 @@
     },
     "done": true
   },
-  "ava:recipes/survival/acetone_solution": {
+  "cataclysm:root": {
     "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
+      "custom_test_name": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -1447,6 +1447,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/oak_post": {
     "criteria": {
       "has_item": "2025-02-01 08:40:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -1570,6 +1576,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-01-31 07:00:31 +0000"
@@ -1609,6 +1621,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-31 07:14:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -1654,12 +1672,6 @@
     },
     "done": true
   },
-  "ava:recipes/survival/compressed_wood": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2025-02-01 08:40:56 +0000"
@@ -1696,12 +1708,6 @@
     },
     "done": true
   },
-  "ava:recipes/main/mastery_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-31 07:02:27 +0000"
@@ -1717,12 +1723,6 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-01-31 07:01:23 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/survival/smoke_powder": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
@@ -1834,12 +1834,6 @@
     },
     "done": true
   },
-  "ava:recipes/main/builders_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-31 07:02:27 +0000"
@@ -1894,6 +1888,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-02-05 03:57:31 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
     "criteria": {
       "has_item": "2025-02-01 08:48:31 +0000"
@@ -1918,12 +1918,6 @@
     },
     "done": true
   },
-  "ava:recipes/main/gun_colouring_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-31 07:28:51 +0000"
@@ -1933,6 +1927,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-02-01 08:40:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-02-05 03:57:31 +0000"
     },
     "done": true
   },
@@ -1957,12 +1957,6 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-31 07:01:23 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/main/gun_modifying_table": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
@@ -2035,12 +2029,6 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-01-31 07:06:14 +0000"
-    },
-    "done": true
-  },
-  "ava:recipes/survival/silicon": {
-    "criteria": {
-      "has_iron_ingot": "2025-02-01 08:40:56 +0000"
     },
     "done": true
   },
